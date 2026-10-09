@@ -1,0 +1,8 @@
+{
+  "name": "AdSpace - Facebook Advertising Space Marketplace",
+  "description": "Find, book, and securely pay for Facebook advertising space, sponsored posts, reels, and page takeovers from verified content creators and page owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
